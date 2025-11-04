@@ -66,7 +66,6 @@ A Java-based data analysis tool designed to process and visualize COVID-19 trend
     *   Extracts sentiment trends related to the pandemic from Twitter data.
     *   Identifies and visualizes keyword frequencies to understand public discourse.
     *   Provides insights into public perception and discussion surrounding COVID-19.
-*   **View Repository:** [COVID-19 Analysis Repo](https://github.com/BenW-Portfolio/Covid19-Twitter-Analysis)
 
 ---
 
