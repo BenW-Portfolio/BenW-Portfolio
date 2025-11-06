@@ -63,6 +63,7 @@ A comprehensive, multi-phase project to build a functional emulator for the RISC
 
 *    **Technologies:** C, RISC-V Assembly
 *    **Features:**
+  
         Phase 1 (Instruction Parser): Developed a robust instruction parser to read textual RISC-V assembly programs and translate them into executable in-memory data structures.
 
         Phase 2 (Register Machine): Implemented the CPU's register file and emulated the full set of register-to-register and immediate arithmetic/logical operations (e.g., add, addi, sll, xor).
@@ -72,8 +73,8 @@ A comprehensive, multi-phase project to build a functional emulator for the RISC
         Phase 4 (Control Flow): Engineered the control flow logic, enabling the emulator to execute conditional branches (beq, bne), unconditional jumps (jal), and function call/return mechanics (jalr).
 
         Phase 5 (Cache Simulation): Integrated a direct-mapped cache simulator to track and report on memory access patterns, calculating cache hits, misses, and evictions to analyze program performance.
-
-    **View Repository:** [RISC-V CPU Emulator Repo](https://github.com/BenW-Portfolio/RISC-V_Emulator)
+     
+   **View Repository:** [RISC-V CPU Emulator Repo](https://github.com/BenW-Portfolio/RISC-V_Emulator)
 
 ---
 
