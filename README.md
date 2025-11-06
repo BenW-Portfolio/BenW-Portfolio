@@ -57,7 +57,7 @@ Developed an end-to-end system managing the student lifecycle from application t
 
 ---
 
-⚙️ RISC-V CPU Emulator & Simulator
+### ⚙️ RISC-V CPU Emulator & Simulator
 
 A comprehensive, multi-phase project to build a functional emulator for the RISC-V (RV64I) instruction set architecture from the ground up in C. This emulator can parse assembly programs, execute instructions, manage memory, and simulate cache performance.
 
